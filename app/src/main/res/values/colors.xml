@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimaryDark">#0F0D12</color>
+    <color name="colorPrimary">#0F031E</color>
+    <color name="brightPurple">#B92CD8</color>
+    <color name="brightGreen">#34CF75</color>
+    <color name="darkGrey">#2E2C3C</color>
+    <color name="darkerGrey">#1F1E29</color>
+    <color name="darkGreen">#234340</color>
+    <color name="darkerGreen">#172B29</color>
+    <color name="grey">#3B3951</color>
+    <color name="white">#E1EDEC</color>
+    <color name="darkWhite">#ACB1B1</color>
+    <color name="greyEmoji">#B4B8B8</color>
+    <color name="brightBlue">#34EFC0</color>
+    <color name="Violet">#0B0415</color>
+    <color name="black">#06010C</color>
+
+</resources>
